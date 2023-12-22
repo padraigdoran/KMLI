@@ -2,7 +2,7 @@
 // @name         KMLI_AIB
 // @namespace ns_KMLI_AIB
 // @author padraigdoran
-// @version      0.8
+// @version      0.8.1
 // @description  Keeps session alive for 1 hour if the user wishes it.
 // @match        https://onlinebanking.aib.ie/*
 // @grant        none
