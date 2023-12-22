@@ -4,7 +4,7 @@
 // @author padraigdoran
 // @version      0.8
 // @description  Keeps session alive for 1 hour if the user wishes it.
-// @match        https://onlinebanking.aib.ie/
+// @match        https://onlinebanking.aib.ie/*
 // @grant        none
 // ==/UserScript==
 
