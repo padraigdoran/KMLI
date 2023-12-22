@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name         KMLI_AIB
+// @name KMLI_AIB
 // @namespace ns_KMLI_AIB
 // @author padraigdoran
-// @version      0.8.2
-// @description  Keeps session alive for 1 hour if the user wishes it.
-// @match        https://onlinebanking.aib.ie/*
-// @grant        none
+// @version 2023.12.22.1
+// @description Keeps session alive for 1 hour if the user wishes it.
+// @match https://onlinebanking.aib.ie/*
+// @grant none
 // @homepage https://github.com/padraigdoran/KMLI
 // @downloadURL https://raw.githubusercontent.com/padraigdoran/KMLI/main/KMLI_AIB.js
 // @updateURL https://raw.githubusercontent.com/padraigdoran/KMLI/main/KMLI_AIB.js
